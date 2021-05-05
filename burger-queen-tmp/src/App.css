@@ -1,0 +1,15 @@
+.cart{
+  border: solid black;
+  width: 200px;
+  margin: 5px;
+  padding: 30px;
+}
+.cart img{
+  width: 100px;
+}
+.content{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}

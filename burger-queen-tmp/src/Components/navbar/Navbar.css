@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60 px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: linear-gradient(90deg, #EEA849 0%, rgba(255, 255, 255, 0) 100%),
+    linear-gradient(0deg, #F46B45, #F46B45);
+}
+
+.navbar img{
+    width: 100px;
+}
+
+.btn_exit {
+    background: #EEA849CC;
+    height: 50px;
+    width: 82px;
+    left: 1144px;
+    top: 81px;
+    border-radius: 8px;
+}
