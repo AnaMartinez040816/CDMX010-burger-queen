@@ -15,6 +15,11 @@
     width: 100px;
 }
 
+.navbar h2 {
+    font-size: medium;
+    justify-items: center;
+}
+
 .btn_exit {
     background: #EEA849CC;
     height: 50px;

@@ -7,3 +7,25 @@
     top: 81px;
     border-radius: 8px;
 }
+
+.container_Users h2 {
+    font-size: large;
+    color: rgb(30, 210, 99);
+}
+
+.mesero {
+    height: 8px;
+    width:  8px;
+    /* flex-direction: row;
+    justify-content: space-between; */
+}
+
+.cocina {
+    height: 10px;
+    width:  10px;
+    /* flex-direction: row;
+    justify-content: space-between; */
+}
+
+
+
