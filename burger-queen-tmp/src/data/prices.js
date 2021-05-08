@@ -1,6 +1,6 @@
-{
-    "company name": "Burger Queen, a 24 hour food chain.",
-    "price list": [
+export const thePrices= { 
+    "companyName": "Burger Queen, a 24 hour food chain.",
+    "priceList": [
       {
         "item": "Café americano",
         "price": 5
@@ -8,7 +8,7 @@
      {
         "item": "Café con leche ",
         "price":  7
-     },     
+     },   
      {
         "item": "Sandwich de jamón y queso",
         "price":  10 

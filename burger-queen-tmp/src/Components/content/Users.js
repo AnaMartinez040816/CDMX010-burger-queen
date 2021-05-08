@@ -4,15 +4,17 @@ import icon_chef from '../../assets/icon_chef.jpg'
 
 export const Users = () => {
     return (
-        <div className="container_Users">
-            <div className="mesero">
-                <h2>BIENVENIDO</h2>
+        <div>
+            <div className="title">
+                <h2>BIENVENIDX</h2>
                 <h4>ELIGE UNA OPCIÓN</h4>
-                <img src={icon_mesero} alt="mesero" />
-                <button className="btn_mesero">MESERO</button>
             </div>
-            <div className="cocina">
-                <img src={icon_chef} alt="cocina" />
+            <div className="logos">
+                <img src={icon_mesero} className="iconSize" alt="mesero" />
+                <img src={icon_chef} className="iconSize" alt="cocina" />
+            </div> 
+            <div className="options">
+                <button className="btn_mesero">MESERO</button>
                 <button className="btn_cocina">COCINA</button>
             </div>
         </div>
